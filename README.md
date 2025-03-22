@@ -1,6 +1,6 @@
 # nowproject
 
-A new Flutter project.
+voting app project.
 
 ## Getting Started
 
